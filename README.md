@@ -1,20 +1,12 @@
-<h1 align="center">Hi 👋, I'm Eren ONDER</h1>
-<h3 align="center">I am a Digital Forensics Engineering student at Firat University. I am a software developer who is interested in cyber security and loves his job. I love animals, especially cute cats. My hobbies are doing sports and shooting videos on social media.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<div align="center">
 
+<img src="Terminal.svg" alt="eren@kali: ~/portfolio" width="860"/>
 
-- 🌱 I’m currently learning **Cyber Security**
+[![GitHub](https://img.shields.io/badge/GitHub-080c14?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/erenonder0)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-080c14?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/erenonder)
+[![Portfolio](https://img.shields.io/badge/Portfolyo-080c14?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41)](https://erenonder0.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/erenonder0/)
+[![YouTube](https://img.shields.io/badge/YouTube-080c14?style=for-the-badge&logo=youtube&logoColor=00FF41)](https://www.youtube.com/@erenonder0)
+[![Email](https://img.shields.io/badge/E--Posta-080c14?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:eerenonder0@gmail.com)
 
-- 📫 How to reach me **eerenonder0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erenonder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenonder0" height="30" width="40" /></a>
-<a href="https://kaggle.com/erenonder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erenonder0" height="30" width="40" /></a>
-<a href="https://hashnode.com/@erenonder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@erenonder0" height="30" width="40" /></a>
-<a href="https://medium.com/@erenonder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erenonder0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@erenonder0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erenonder0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
